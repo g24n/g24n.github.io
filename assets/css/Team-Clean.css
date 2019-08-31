@@ -1,6 +1,7 @@
 .team-clean {
   color: #313437;
   background-color: #7fa3c6;
+  padding-bottom: 15px;
 }
 
 .team-clean p {
@@ -62,6 +63,7 @@
   margin-top: 15px;
   margin-bottom: 20px;
   color: #3a454f;
+  padding-bottom: 10px;
   font-weight: 800;
 }
 
